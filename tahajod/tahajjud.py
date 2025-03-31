@@ -3,7 +3,6 @@
 import urllib.request
 import json
 from datetime import datetime, timedelta
-import re
 
 
 class TahajjudCalculator:
